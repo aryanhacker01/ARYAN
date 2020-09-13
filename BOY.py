@@ -89,7 +89,7 @@ jalan("\033[1;96m |_||_|_|_\ !_! |_||_|_|\__| ")
 jalan("\033[1;97m INDIAN USER USE ANY PROXY TO CLONE")
 jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
 jalan("\033[1;93m Welcome to 𝐒𝐇𝐀𝐇𝐙𝐀𝐃𝐀 𝐀𝐑𝐘𝐀𝐍")
-jalan("\033[1;96m•◈•──────────•◈•\033[1;96mKashiGangster\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;96m•◈•──────────•◈•\033[1;96m𝐒𝐇𝐀𝐇𝐙𝐀𝐃𝐀 𝐀𝐑𝐘𝐀𝐍\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "ARYAN"
 CorrectPassword = "HACKER"
